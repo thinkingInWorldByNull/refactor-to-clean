@@ -1,6 +1,6 @@
-package com.learn.wg.demo01.refactor_1.report.adapter.domain.rewardrule;
+package com.learn.wg.demo01.refactor_1.report.domain.rewardrule;
 
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rentalrule.MovieRentalRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rentalrule.MovieRentalRule;
 
 /**
  * @author wanggang

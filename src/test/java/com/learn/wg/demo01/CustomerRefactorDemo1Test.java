@@ -1,11 +1,9 @@
 package com.learn.wg.demo01;
 
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.Customer;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.Rental;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.movie.*;
-import com.learn.wg.demo01.refactor_1.report.adapter.output.CustomerRentalQueryImpl;
-import com.learn.wg.demo01.refactor_1.report.application.input.CustomerRentalQuery;
-import com.learn.wg.demo01.refactor_1.report.application.service.CustomerMovieRentalReportUseCase;
+import com.learn.wg.demo01.refactor_1.report.domain.Customer;
+import com.learn.wg.demo01.refactor_1.report.domain.Rental;
+import com.learn.wg.demo01.refactor_1.report.domain.movie.*;
+import com.learn.wg.demo01.refactor_1.report.application.CustomerMovieRentalReportUseCase;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -30,9 +28,7 @@ public class CustomerRefactorDemo1Test {
         customer.addRental(new Rental(new ChildrenMovie("熊出没"), 10));
         customer.addRental(new Rental(new RegularMovie("普通电影——黑狗"), 10));
 
-        CustomerRentalQuery customerRentalQuery = new CustomerRentalQueryImpl(customer);
-
-        String customerMovieReport = CustomerMovieRentalReportUseCase.customerMovieReport(customerRentalQuery);
+        String customerMovieReport = CustomerMovieRentalReportUseCase.customerMovieReport(customer);
 
         Assertions.assertTrue(customerMovieReport.contains("银熊\t30.0"));
         Assertions.assertTrue(customerMovieReport.contains("杀破狼\t30.0"));

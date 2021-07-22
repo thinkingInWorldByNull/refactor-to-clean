@@ -1,4 +1,4 @@
-package com.learn.wg.demo01.refactor_1.report.adapter.domain.rewardrule;
+package com.learn.wg.demo01.refactor_1.report.domain.rewardrule;
 
 /**
  * @author wanggang

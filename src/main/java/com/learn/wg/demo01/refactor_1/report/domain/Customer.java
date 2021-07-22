@@ -1,4 +1,4 @@
-package com.learn.wg.demo01.refactor_1.report.adapter.domain;
+package com.learn.wg.demo01.refactor_1.report.domain;
 
 import java.util.Collections;
 import java.util.Iterator;

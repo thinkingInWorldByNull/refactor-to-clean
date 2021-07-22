@@ -1,4 +1,4 @@
-package com.learn.wg.demo01.refactor_1.report.application.service;
+package com.learn.wg.demo01.refactor_1.report.application;
 
 /**
  * @author wanggang

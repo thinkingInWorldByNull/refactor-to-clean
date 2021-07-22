@@ -1,12 +1,0 @@
-
-2
-java:S16437"Use a StringBuilder instead.(°ñÁŞ
-N
-java:S11537"1Directly append the argument of String.valueOf().(°ñÁŞ8™ùÔ½«/
-N
-java:S1153<"1Directly append the argument of String.valueOf().(´ÉÛ®8™ùÔ½«/
-N
-java:S1153="1Directly append the argument of String.valueOf().(¨‚ğÿ8™ùÔ½«/
-{
-java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ã·¤†
-C	java:S131 ""Add a default case to this switch.( İÜØıÿÿÿÿ8ùÔ½«/

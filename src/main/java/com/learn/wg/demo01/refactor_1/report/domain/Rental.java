@@ -1,6 +1,6 @@
-package com.learn.wg.demo01.refactor_1.report.adapter.domain;
+package com.learn.wg.demo01.refactor_1.report.domain;
 
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.movie.Movie;
+import com.learn.wg.demo01.refactor_1.report.domain.movie.Movie;
 
 public class Rental {
     private Movie movie;

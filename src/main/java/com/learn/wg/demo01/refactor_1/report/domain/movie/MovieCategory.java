@@ -1,12 +1,12 @@
-package com.learn.wg.demo01.refactor_1.report.adapter.domain.movie;
+package com.learn.wg.demo01.refactor_1.report.domain.movie;
 
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rentalrule.ChildrenMovieRentalRule;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rentalrule.MovieRentalRule;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rentalrule.NewReleaseMovieRentalRule;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rewardrule.ChildrenMovieRewardPointRule;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rewardrule.NewReleaseRewardPointRule;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rewardrule.RegularMovieRentalRule;
-import com.learn.wg.demo01.refactor_1.report.adapter.domain.rewardrule.RewardPointRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rentalrule.ChildrenMovieRentalRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rentalrule.MovieRentalRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rentalrule.NewReleaseMovieRentalRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rewardrule.ChildrenMovieRewardPointRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rewardrule.NewReleaseRewardPointRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rewardrule.RegularMovieRentalRule;
+import com.learn.wg.demo01.refactor_1.report.domain.rewardrule.RewardPointRule;
 
 /**
  * @author wanggang

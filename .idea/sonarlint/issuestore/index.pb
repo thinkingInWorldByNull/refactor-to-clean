@@ -27,8 +27,6 @@ bsrc/main/java/com/learn/wg/demo01/refactor_1/report/adapter/domain/rewardrule/R
 isrc/main/java/com/learn/wg/demo01/refactor_1/report/adapter/domain/rewardrule/RegularMovieRentalRule.java,4/e/4e9e7bc75537f80a8a97890b6c5852e64fe20db8
 ö
 jsrc/main/java/com/learn/wg/demo01/refactor_1/report/adapter/domain/rentalrule/ChildrenMovieRentalRule.java,a/f/af3d55d25d1fb8e64cd867720eae8578cb050a5d
-è
-_src/main/java/com/learn/wg/demo01/refactor_1/report/domain/CustomerMovieRentalReportDetail.java,9/8/98dac69ae23233565a990ac14c0b11ed825c44e7
 É
 Ssrc/main/java/com/learn/wg/demo01/refactor_1/report/adapter/domain/movie/Movie.java,2/5/254711b605d6d9d33d455c637956df96a6562173
 ã
@@ -43,10 +41,6 @@ Zsrc/main/java/com/learn/wg/demo01/refactor_1/report/adapter/domain/movie/Regula
 Psrc/main/java/com/learn/wg/demo01/refactor_1/report/adapter/domain/Customer.java,a/f/aff8e8b4c639009d3ac6686ec50a092f53f159a5
 ~
 Nsrc/main/java/com/learn/wg/demo01/refactor_1/report/adapter/domain/Rental.java,1/b/1b1ce408a881f7bb6c4d775d4887b39def61c634
-é
-^src/main/java/com/learn/wg/demo01/refactor_1/report/application/input/CustomerRentalQuery.java,f/8/f86aae721f7faf4e9d50fed7c992714510d9af4b
-è
-_src/main/java/com/learn/wg/demo01/refactor_1/report/adapter/output/CustomerRentalQueryImpl.java,e/f/ef111ab9321a9cb1cd5754e9e9422ebbca6fabf9
 ã
 [src/main/java/com/learn/wg/demo01/refactor_2/retalcalculate/domain/movie/ChildrenMovie.java,c/5/c5227719856e5bf76011aa4f8f6aab090d6b148d
 É
@@ -109,16 +103,12 @@ csrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/domain/rewardrule/
 Tsrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/domain/movie/Movie.java,d/5/d514a86579cffa1de4a29542c3ae424042b515bf
 å
 \src/main/java/com/learn/wg/demo01/refactor_3/calculaterental/domain/movie/ChildrenMovie.java,0/2/02ff602a8006c0a918d327937a109bd1678f9f3c
-f
-6src/main/java/com/learn/wg/demo01/origin/Customer.java,7/8/780d7fd56f006f56d083422bbd7737ccead7fc1c
 Å
 Qsrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/domain/Customer.java,0/4/041ce20b00c121e239f1053cf5d30a90f4a09724
 ù
 msrc/main/java/com/learn/wg/demo01/refactor_1/report/application/service/CustomerMovieRentalReportUseCase.java,1/d/1da87e5bc4b4457711696bffeb136018ddbbd10b
 k
 ;src/test/java/com/learn/wg/demo01/CustomerOriginalTest.java,3/7/37151bbdb48648ff82e87797169d295cc7a8ae75
-p
-@src/test/java/com/learn/wg/demo01/CustomerRefactorDemo1Test.java,0/0/0099d51ab5f3eb59173ae336f791292487c89d07
 
 Osrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/domain/Rental.java,c/3/c39bf4b3bc2a984e7b5c60abf5f03207adf5df9d
 ì

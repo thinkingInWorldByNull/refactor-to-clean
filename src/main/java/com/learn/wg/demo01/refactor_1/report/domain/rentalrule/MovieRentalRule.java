@@ -1,4 +1,4 @@
-package com.learn.wg.demo01.refactor_1.report.adapter.domain.rentalrule;
+package com.learn.wg.demo01.refactor_1.report.domain.rentalrule;
 
 /**
  * @author wanggang
