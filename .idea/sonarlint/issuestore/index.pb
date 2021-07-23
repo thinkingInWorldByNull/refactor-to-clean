@@ -89,16 +89,10 @@ csrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/usecase/MovieRenta
 ksrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/infrastrcture/CustomerRentalQueryInMemory.java,7/5/75c8e8e9a768cb6f12adf8f21c916615cc670e0f
 š
 jsrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/infrastrcture/CustomerRentalQueryInMysql.java,1/7/17a28b6798d91f33b425ab1b8d434d73665320b0
-”
-dsrc/main/java/com/learn/wg/demo01/refactor_3/generatereport/inerfaces/CustomerRentalReportQuery.java,f/2/f2cf4fedd124ba4e0b17bf7d64c41276294bf158
  
 psrc/main/java/com/learn/wg/demo01/refactor_3/generatereport/infrastrcture/CustomerRentalReportQueryInMemory.java,6/8/6864f70ec282636fb1d582c1ca8cea199a62f5d6
-Œ
-\src/main/java/com/learn/wg/demo01/refactor_3/generatereport/inerfaces/CustomerNameQuery.java,c/f/cfa40468930f2439744eb21ceb06bba645271a2a
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-’
-bsrc/main/java/com/learn/wg/demo01/refactor_3/generatereport/domain/MovieRentalItemDescription.java,4/6/46e566772a8494345b620ae95e5028e222ed6d1b
 ”
 dsrc/main/java/com/learn/wg/demo01/refactor_3/calculaterental/usecase/RentalPriceCalculateResult.java,e/d/ed86d0b78c8d69f54836315aa6b3d86a9276c2d8
 k
@@ -111,3 +105,12 @@ gsrc/main/java/com/learn/wg/demo01/refactor_3/generatereport/infrastrcture/Custo
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 f
 6src/main/java/com/learn/wg/demo01/origin/Customer.java,7/8/780d7fd56f006f56d083422bbd7737ccead7fc1c
+
+_src/main/java/com/learn/wg/demo01/refactor_1/report/domain/CustomerMovieRentalReportDetail.java,9/8/98dac69ae23233565a990ac14c0b11ed825c44e7
+•
+esrc/main/java/com/learn/wg/demo01/refactor_1/report/application/CustomerMovieRentalReportUseCase.java,7/b/7b316925b0b9f851e31313651756e3339b0adb79
+Ž
+^src/main/java/com/learn/wg/demo01/refactor_3/generatereport/api/GernerateReportController.java,5/0/503f8a239417eaf5c56231f36b9dc0846f9a8e8b
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302

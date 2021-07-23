@@ -14,7 +14,6 @@ public interface RentalMovieReportPrintable {
 
     /**
      * 增加明细信息
-     * @param itemDescription
      */
     void addItemReport(List<MovieRentalItemDescription> movieRentalItemDescriptions);
 
