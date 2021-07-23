@@ -13,4 +13,4 @@
 
 # 依赖流的说明
 
-![img.png](images/img.png)
+![img.png](img.png)
