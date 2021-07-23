@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * @author wanggang
  */
-public interface RentalMovieReporter {
+public interface RentalMovieReportPrintable {
     /**
      * 增加头信息
      * @param customerName

@@ -5,7 +5,7 @@ import com.learn.wg.demo01.refactor_3.calculaterental.infrastrcture.CustomerRent
 import com.learn.wg.demo01.refactor_3.calculaterental.usecase.RentalPriceCalculateResult;
 import com.learn.wg.demo01.refactor_3.calculaterental.usecase.RentalPriceCalculateUseCase;
 import com.learn.wg.demo01.refactor_3.generatereport.domain.MovieRentalItemDescription;
-import com.learn.wg.demo01.refactor_3.generatereport.inerfaces.CustomerRentalReportQuery;
+import com.learn.wg.demo01.refactor_3.generatereport.interfaces.CustomerRentalReportQuery;
 
 import java.util.List;
 import java.util.stream.Collectors;

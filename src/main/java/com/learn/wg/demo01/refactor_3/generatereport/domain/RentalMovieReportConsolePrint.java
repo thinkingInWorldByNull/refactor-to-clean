@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * @author wanggang
  */
-public class RentalMovieReportPrint implements RentalMovieReporter {
+public class RentalMovieReportConsolePrint implements RentalMovieReportPrintable {
     private final StringBuffer description = new StringBuffer(300);
 
     @Override

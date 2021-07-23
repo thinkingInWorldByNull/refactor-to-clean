@@ -1,9 +1,9 @@
 /**
- * <li>domain：定义内部的核心逻辑和业务</li>
+ * <li>domain：定义内部的核心逻辑和业务，该层不能引用其他层的数据</li>
  * <li>infrastructure：包含支持该模块所有外部设施 —— 数据库，框架，工具等</li>
  * <li>interfaces：定义支撑业务需要的外围功能</li>
  * <li>api：外部模块的访问方式和view展现</li>
- * <li>usecase
+ * <li>use case
  *     <pre>
  *     1.代表着某种场景下的业务逻辑
  *     2.封装该模块的所有用例 —— 具有使用的自述性

@@ -1,4 +1,4 @@
-package com.learn.wg.demo01.refactor_3.generatereport.inerfaces;
+package com.learn.wg.demo01.refactor_3.generatereport.interfaces;
 
 import com.learn.wg.demo01.refactor_3.calculaterental.usecase.RentalPriceCalculateResult;
 import com.learn.wg.demo01.refactor_3.generatereport.domain.MovieRentalItemDescription;

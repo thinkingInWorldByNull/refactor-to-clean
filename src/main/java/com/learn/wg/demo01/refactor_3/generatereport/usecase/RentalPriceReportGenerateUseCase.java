@@ -2,9 +2,9 @@ package com.learn.wg.demo01.refactor_3.generatereport.usecase;
 
 import com.learn.wg.demo01.refactor_3.calculaterental.usecase.RentalPriceCalculateResult;
 import com.learn.wg.demo01.refactor_3.generatereport.domain.MovieRentalItemDescription;
-import com.learn.wg.demo01.refactor_3.generatereport.domain.RentalMovieReportPrint;
-import com.learn.wg.demo01.refactor_3.generatereport.inerfaces.CustomerNameQuery;
-import com.learn.wg.demo01.refactor_3.generatereport.inerfaces.CustomerRentalReportQuery;
+import com.learn.wg.demo01.refactor_3.generatereport.domain.RentalMovieReportConsolePrint;
+import com.learn.wg.demo01.refactor_3.generatereport.interfaces.CustomerNameQuery;
+import com.learn.wg.demo01.refactor_3.generatereport.interfaces.CustomerRentalReportQuery;
 
 import java.util.List;
 
@@ -33,7 +33,7 @@ public class RentalPriceReportGenerateUseCase {
     private String generateReport(String customerName,
                                   RentalPriceCalculateResult reportCalResult,
                                   List<MovieRentalItemDescription> rentalItemDescriptions) {
-        RentalMovieReportPrint rentalMovieReport = new RentalMovieReportPrint();
+        RentalMovieReportConsolePrint rentalMovieReport = new RentalMovieReportConsolePrint();
 
         rentalMovieReport.addHeadReport(customerName);
         rentalMovieReport.addItemReport(rentalItemDescriptions);
